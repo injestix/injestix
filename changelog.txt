@@ -1,0 +1,9 @@
+Changelog
+---------
+
+v1.0
+- Initial Release
+
+v1.1
+- Fixed some validation bugs
+- Added a new Dashboard Style - Lines!
